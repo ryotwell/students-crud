@@ -1,7 +1,5 @@
 # Students CRUD uses native php
 
-Chat with bots.
-
 ## How to install:
 
 ```bash
