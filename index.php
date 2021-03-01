@@ -42,7 +42,7 @@ $students = Database::query("SELECT * FROM `students`");
 
     <h2>Students</h2>
 
-    <a href="/create.php">Tambah data siswa</a>
+    <a href="<?= e(url('/create.php')) ?>">Tambah data siswa</a>
 
     <div class="container">
         <table border="1" style="border-collapse: collapse;">

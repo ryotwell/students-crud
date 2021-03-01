@@ -2,5 +2,5 @@
 
 return [
     'name' => 'Students CRUD',
-    'url' => 'http://localhost/',
+    'url' => 'http://localhost',
 ];
