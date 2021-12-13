@@ -37,7 +37,7 @@ class Database
         return true;
     }
 
-    static function query($query)
+    public static function query($query)
     {
         self::setConfig();
 
